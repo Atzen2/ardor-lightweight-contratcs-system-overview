@@ -1,1 +1,1 @@
-# ardor-lightweight-contratcs-system-overview
+# ardor-related-diagrams
